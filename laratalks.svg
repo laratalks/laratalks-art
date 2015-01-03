@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="laratalks.svg">
+  <defs
+     id="defs4">
+    <clipPath
+       id="clipPath3001"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path3003"
+         d="m 0,8.57813 160,0 0,90 -160,0 0,-90 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath3028"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path3030"
+         d="M 0,700 700,700 700,0 0,0 0,700 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath3065"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path3067"
+         d="M 0,864 864,864 864,0 0,0 0,864 z" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="624.47951"
+     inkscape:cy="547.48599"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="744"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       transform="matrix(30.987634,0,0,-42.580774,116.59304,738.9911)"
+       inkscape:label="ink_ext_XXXXXX"
+       id="g2993"
+       style="fill:#666666">
+      <g
+         transform="scale(0.1,0.1)"
+         id="g2995"
+         style="fill:#666666">
+        <g
+           id="g2997"
+           style="fill:#666666">
+          <g
+             clip-path="url(#clipPath3001)"
+             id="g2999"
+             style="fill:#666666">
+            <path
+               id="path3005"
+               style="fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               d="m 101.879,56.6992 c 0,0 -0.59,6.0899 -1.367,15.2422 C 99.6914,81 99.3789,94.1992 99.3789,94.1992 l -7.0391,0.4727 -3.5898,3.9062 -1.8711,0 -0.1992,-0.789 -7.3789,-0.7774 -7.3906,0.7774 -0.1914,0.789 -1.918,0 -3.5899,-3.9062 -7.0703,-0.4727 c 0,0 -0.2695,-13.1992 -1.0898,-22.2578 C 57.2695,62.7891 56.6797,56.6992 56.6797,56.6992 L 0,9.98047 l 61.9492,0 c 0.3906,3.51953 2.2696,17.46093 5.3906,27.10933 3.0508,9.4493 9.9297,11.9883 11.961,12.5821 2.0273,-0.5938 8.8594,-3.1328 11.9492,-12.5821 3.1289,-9.6484 4.9609,-23.5507 5.3906,-27.10933 l 61.9104,0 -56.672,46.71873 z"
+               inkscape:connector-curvature="0" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       transform="matrix(0.22296715,0,0,-0.22296715,285.07656,474.97364)"
+       inkscape:label="laravel-l-slant"
+       id="g3022"
+       style="fill:#ffffff">
+      <g
+         id="g3024"
+         style="fill:#ffffff">
+        <g
+           clip-path="url(#clipPath3028)"
+           id="g3026"
+           style="fill:#ffffff">
+          <g
+             transform="translate(533.8223,358.9829)"
+             id="g3032"
+             style="fill:#ffffff">
+            <path
+               id="path3034"
+               style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               d="m 0,0 c -2.853,-0.624 -49.561,-12.212 -49.561,-12.212 l -38.201,52.413 c -1.07,1.515 -1.961,3.031 0.713,3.387 2.674,0.357 46.084,8.202 48.045,8.647 1.961,0.445 3.655,0.98 6.062,-2.318 C -30.536,46.619 2.495,4.813 3.743,3.209 4.991,1.604 2.853,0.624 0,0 m -8.155,-90.316 c 1.166,-1.834 2.332,-3.001 -1.334,-4.334 -3.666,-1.333 -123.667,-41.833 -126,-42.833 -2.333,-1 -4.166,-1.333 -7.166,3 -3,4.333 -42.042,71.9 -42.042,71.9 l 127.208,33.1 c 3.167,1 4.167,1.667 6.167,-1.5 2,-3.167 42.001,-57.499 43.167,-59.333 m -206.02,38.615 c -1.56,-0.334 -74.63,-17.822 -78.529,-18.714 -3.899,-0.891 -3.899,-0.445 -4.344,0.892 -0.446,1.337 -86.879,179.559 -88.079,181.787 -1.201,2.228 -1.138,3.993 0,3.993 1.137,0 69.008,6.067 71.409,6.193 2.402,0.127 2.149,-0.379 3.033,-1.895 0,0 95.73,-165.239 97.401,-168.135 1.671,-2.895 0.668,-3.787 -0.891,-4.121 M 22.997,-3.209 C 20.145,0 -19.305,49.382 -26.257,57.761 c -6.952,8.379 -10.34,6.864 -14.619,6.24 -4.279,-0.624 -54.195,-9.003 -59.989,-9.983 -5.794,-0.981 -9.448,-3.299 -5.883,-8.29 3.171,-4.439 35.986,-50.962 43.214,-61.208 L -193.995,-46.733 -297.75,126.73 c -4.13,6.124 -4.988,8.264 -14.388,7.836 -9.4,-0.427 -81.392,-6.408 -86.519,-6.836 -5.128,-0.428 -10.756,-2.71 -5.629,-14.816 5.128,-12.106 86.887,-188.289 89.165,-193.416 2.279,-5.127 8.204,-13.445 22.077,-10.112 14.213,3.415 63.502,16.28 90.434,23.333 14.231,-25.77 43.254,-78.045 48.621,-85.535 7.166,-10 12.098,-8.346 23.099,-5.013 8.589,2.603 134.401,47.846 140.068,50.179 5.667,2.333 9.167,4 5.333,9.667 -2.819,4.166 -36.008,48.629 -53.392,71.89 11.906,3.169 54.244,14.44 58.758,15.664 5.259,1.426 5.973,4.011 3.12,7.22"
+               inkscape:connector-curvature="0" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <rect
+       style="fill:#fb503b;fill-opacity:1;stroke:none"
+       id="rect3045"
+       width="196.97974"
+       height="45.456863"
+       x="262.396"
+       y="450.31125" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="267.75134"
+       y="485.62598"
+       id="text3047"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3049"
+         x="267.75134"
+         y="485.62598">LaraTalks</tspan></text>
+  </g>
+</svg>
