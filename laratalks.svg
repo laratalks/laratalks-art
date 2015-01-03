@@ -46,17 +46,22 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="624.47951"
-     inkscape:cy="547.48599"
+     inkscape:zoom="1.4"
+     inkscape:cx="369.13244"
+     inkscape:cy="549.94163"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="744"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1" />
+     showgrid="true"
+     inkscape:window-width="458"
+     inkscape:window-height="398"
+     inkscape:window-x="490"
+     inkscape:window-y="58"
+     inkscape:window-maximized="0"
+     showguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3001" />
+  </sodipodi:namedview>
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -65,7 +70,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -74,10 +79,13 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       transform="matrix(30.987634,0,0,-42.580774,116.59304,738.9911)"
+       transform="matrix(20.876563,0,0,-31.735394,140.59304,723.11614)"
        inkscape:label="ink_ext_XXXXXX"
        id="g2993"
-       style="fill:#666666">
+       style="fill:#666666"
+       inkscape:export-filename="/home/morilog/Desktop/laratalks-art/logo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="scale(0.1,0.1)"
          id="g2995"
@@ -99,7 +107,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.22296715,0,0,-0.22296715,285.07656,474.97364)"
+       transform="matrix(0.17490178,0,0,-0.17490178,245.77691,532.96279)"
        inkscape:label="laravel-l-slant"
        id="g3022"
        style="fill:#ffffff">
@@ -126,20 +134,20 @@
     <rect
        style="fill:#fb503b;fill-opacity:1;stroke:none"
        id="rect3045"
-       width="196.97974"
-       height="45.456863"
-       x="262.396"
-       y="450.31125" />
+       width="168.40831"
+       height="36.885433"
+       x="220.53885"
+       y="504.59695" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
-       x="267.75134"
-       y="485.62598"
+       style="font-size:32.10282898px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="230"
+       y="532.36218"
        id="text3047"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3049"
-         x="267.75134"
-         y="485.62598">LaraTalks</tspan></text>
+         x="230"
+         y="532.36218">LaraTalks</tspan></text>
   </g>
 </svg>
